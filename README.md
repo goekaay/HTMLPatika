@@ -1,2 +1,2 @@
 # HTMLPatika
-[http://www.patika.dev](Patika)'daki projelerin olduğu repo
+[Patika](http://www.patika.dev)'daki projelerin olduğu repo
