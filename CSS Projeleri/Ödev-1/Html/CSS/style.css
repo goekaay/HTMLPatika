@@ -1,0 +1,66 @@
+body {
+    background-color: bisque;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+
+}
+
+ul {
+    background-color: wheat;
+    width: 100%;
+    list-style: none;
+    padding-left: 0;
+}
+
+ol {
+    list-style: none;
+    padding-left: 0;
+    font-size: larger;
+}
+
+ul li {
+    display: inline-block;
+    width: 200px;
+    padding: 10px;
+    background-color: wheat;
+
+}
+
+ul li:hover {
+    background-color: brown;
+    transition: 0.5s;
+}
+
+a:link {
+    color: brown;
+    text-decoration: none;
+}
+
+a:visited {
+    color: brown;
+    text-decoration: none;
+}
+
+a:hover {
+    color: orange;
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+img {
+    padding: 0%;
+    max-height: 400px;
+}
+
+h1 {
+    color: brown;
+
+}
+
+h2 {
+    color: cadetblue;
+}
+
+h3 {}
+
+p {}
