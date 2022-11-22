@@ -21,6 +21,11 @@ Hepimiz her gün Google kullanıyoruz ve çok işimize yarıyor değil mi? Her g
 
 Hepinize başarılar ve kolay gelsin!
 
+Ödev Sonucu :)
+![Screenshot 2022-11-22 at 12-53-55 Ürünler Motosiklet Dükkanı](https://user-images.githubusercontent.com/105244598/203402497-20e9372d-dedc-4709-8296-4ba28e68b6c3.png)
+
+
+
 ## Kaynaklar
 - https://tr.wikipedia.org/wiki/Google
 - https://web.archive.org/
