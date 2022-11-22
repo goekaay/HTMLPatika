@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+    margin: 20px;
+}
+
+table {
+    text-align: center;
+    width: 100%;
+    height: fit-content;
+}
+
+input {
+    width: 350px;
+    margin-bottom: 8px;
+}
+
+footer {
+    margin-top: 20%;
+
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.turquouse {
+    background-color: #7de5da;
+    width: 33%;
+}
+
+.grey {
+    background-color: #eeeeee;
+
+}
+
+.dark_blue {
+    background-color: #70cbc2;
+    width: 33%;
+}
+
+.darkest_blue {
+    background-color: #62b3aa;
+    width: 33%;
+}
