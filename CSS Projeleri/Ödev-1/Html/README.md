@@ -1,4 +1,4 @@
-#CSS 1. Ödev
+# CSS 1. Ödev
 
 Tamamen istediğim şekilde bir site oluşturup tasarladım. 
 
