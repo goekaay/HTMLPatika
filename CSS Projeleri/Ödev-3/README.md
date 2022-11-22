@@ -47,3 +47,5 @@ Kod yazarken yorum satırları kullanmaya özen gösteriniz. ödevin indirilebil
 ## Kaynaklar
 - https://tr.wikipedia.org/wiki/Google
 - https://web.archive.org/
+
+[Patika.dev](http://www.patika.dev)
